@@ -1,0 +1,10 @@
+#+TITLE:	Trabalho de Visualização da Informação
+#+AUTHOR:	Alice Duarte Scarpa
+#+EMAIL:	alicescarpa@gmail.com
+#+DATE:		2015-07-24
+#+UPDATE:	0:00:00
+#+STARTUP:	content
+
+* Introdução
+
+Esse repositório contém o contéudo relevante para o trabalho final do curso de Visualização da Informação.
